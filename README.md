@@ -1,5 +1,6 @@
-## ✨Hi Guys! Im'M Naz✨
+## ✨Hi Guys! I'M Naz✨
 
+![IsnaZ23](img/github-header-banner.png)
 <!--
 **IsnaZ23/IsnaZ23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
