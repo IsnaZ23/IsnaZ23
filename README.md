@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20Guys!%20I'm%20Isnan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Students%20at%20Veteran%20University%20Yogyakarta&descSize=18&descAlignY=55"/>
+  
+<!-- Header Banner dengan Typing Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20Guys!%20I'm%20Isnan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=students%20at%20Universitas%20Pembangunan%20Nasional%20%22Veteran%22%20Yogyakarta&descSize=18&descAlignY=55"/>
 
-
+<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=IsnaZ23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computer+Science+Student+%F0%9F%8E%93;Passionate+Learner+%F0%9F%92%BB;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
