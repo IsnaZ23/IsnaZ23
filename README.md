@@ -43,5 +43,11 @@ contact: muham.naniz@gmail.com
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
 ![Opencode](https://img.shields.io/badge/Opencode-000000?style=for-the-badge)
 ![9router](https://img.shields.io/badge/9router-000000?style=for-the-badge)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Meta_Llama-000000?style=for-the-badge&logo=meta&logoColor=white)
+
 
 </div>
