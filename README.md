@@ -33,7 +33,7 @@ contact: muham.naniz@gmail.com
 
 ---
 
-## 💻 Tech Stack
+## 💻 AI Stack
 
 <div>
 
