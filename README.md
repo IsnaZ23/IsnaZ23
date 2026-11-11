@@ -38,5 +38,10 @@ contact: muham.naniz@gmail.com
 <div>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+![Opencode](https://img.shields.io/badge/Opencode-000000?style=for-the-badge)
+![9router](https://img.shields.io/badge/9router-000000?style=for-the-badge)
 
 </div>
