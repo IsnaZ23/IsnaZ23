@@ -48,6 +48,9 @@ contact: muham.naniz@gmail.com
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
 ![Meta Llama](https://img.shields.io/badge/Meta_Llama-000000?style=for-the-badge&logo=meta&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 
 
 </div>
