@@ -23,7 +23,7 @@ contact: muham.naniz@gmail.com
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <div>
 
@@ -33,7 +33,7 @@ contact: muham.naniz@gmail.com
 
 ---
 
-## 💻 AI Stack
+## AI Stack
 
 <div>
 
