@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dino loncat -->
-<img src="./assets/dino.svg" alt="Dino loncat" width="600"/>
+<img src="./assets/dino.gif" alt="Dino loncat" width="600"/>
 
 <br/>
 
